@@ -79,8 +79,8 @@ function Hero() {
 
           <a
             className="button-secondary"
-            href="/Nilesh_Bhoi_Backend_Engineer.pdf"
-            download="Nilesh_Bhoi_Backend_Engineer.pdf"
+            href="/Nilesh_Bhoi_Resume.pdf"
+            download="Nilesh_Bhoi_Resume.pdf"
           >
             Download Resume
           </a>
